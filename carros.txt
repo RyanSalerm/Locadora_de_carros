@@ -1,0 +1,8 @@
+0;Chevrolet Tracker;120
+1;Chevrolet Onix;90
+2;Chevrolet Spin;150
+3;Hyundai HB20;85
+4;Hynudai Tucson;120
+5;Fiat Uno;60
+6;Fiat Mobi;70
+7;Fiat Pulse;130
